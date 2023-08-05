@@ -6,6 +6,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
+    scroll-behavior: smooth;
   }
   :root{
     --sideBGColor:#040b14 ;
@@ -234,6 +235,7 @@ main{
     text-align: center;
 }
 #about .about-col .img-col img{
+    
     width: 100%;
 }
 #about .about-col .info-col{
@@ -254,7 +256,7 @@ main{
 }
 #about .about-col .info-col .icon-list-col{
     display: flex;
-    margin-top: 20px;
+    margin-top: 15px;
     gap: 40px;
 }
 #about .about-col .info-col .icon-list-col .icon-list ul li {
