@@ -508,12 +508,12 @@ main{
     grid-gap: 35px;
 }
 #portfolio .port-row .port-item{
-    position: relative;
+    position:relative;
     border-radius: 10px;
-    overflow: hidden;
+    overflow:hidden;
 }
 #portfolio .port-row .port-item .port-img img{
-    width: 100%;
+    width:100%;
     border-radius: 10px;
 }
 #portfolio .port-row .port-item .port-info{
