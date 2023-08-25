@@ -150,7 +150,7 @@ main{
 #home{
     height: 100vh;
     width: 100%;
-    background-image: url(img/yash2.jpg);
+    background-image: url(img/bg.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
